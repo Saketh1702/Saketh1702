@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Saketh1702/Saketh1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 ### Hi there, I'm Saketh Angirekula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently pursuing Masters of Science(MS) in Computer Science(CS) at Arizona State University and completed my B.tech in Computer Science and Engineering from National Institute of Technology, Silchar.
