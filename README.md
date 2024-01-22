@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <!-- ![profile visit](https://komarev.com/ghpvc/?username=saiabhiteja) -->
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=saiabhiteja&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Saketh1702&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 
 </div>
 <hr style="width:50%;text-align:left;margin-left:0">
