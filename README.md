@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Saketh Angirekula <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently pursuing Masters of Science(MS) in Computer Science(CS) at Arizona State University and completed my B.tech in Computer Science and Engineering from National Institute of Technology, Silchar.
-- 🌱 I am passionate about using Data to solve real world probelms basically.. Data Science and I also love analytical thinking , enjoy coding and collabarating 
+- 🌱 I am passionate about using Data to solve real world probelms and I also love analytical thinking , enjoy coding and collabarating 
 
 
 <hr style="width:50%;text-align:left;margin-left:0">
