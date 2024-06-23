@@ -42,13 +42,6 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcode.card.workers.dev/saketh_1702?theme=dark&font=&extension=null)
 <!-- ![profile visit](https://komarev.com/ghpvc/?username=saketh) -->
 
-- uses: Platane/snk@v3
-  with:
-    github_user_name: ${{ github.Saketh1702 }}
-    outputs:
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Saketh1702&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 
