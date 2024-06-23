@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ### 👦Stats
 <div align="left">
  
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcode.com/u/saketh_1702/))
 <!-- ![profile visit](https://komarev.com/ghpvc/?username=saketh) -->
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Saketh1702&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
