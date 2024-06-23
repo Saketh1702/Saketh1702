@@ -42,6 +42,12 @@ Here are some ideas to get you started:
 ![LeetCode Stats](https://leetcode.card.workers.dev/saketh_1702?theme=dark&font=&extension=null)
 <!-- ![profile visit](https://komarev.com/ghpvc/?username=saketh) -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Saketh1702&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 
 </div>
