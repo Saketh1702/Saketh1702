@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 #### Programming Languages :
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Sql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![J](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=aws&logoColor=white)
 
@@ -37,12 +37,10 @@ Here are some ideas to get you started:
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
-### 👦Stats
-<div align="left">
+### 👦Stats ![profile visit](https://komarev.com/ghpvc/?username=saketh)
+<div align="centre">
  
-![LeetCode Stats](https://leetcode.card.workers.dev/saketh_1702?theme=dark&font=&extension=null)
-<!-- ![profile visit](https://komarev.com/ghpvc/?username=saketh) -->
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/saketh_1702)
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=Saketh1702&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&count_private=true&theme=gotham)
 
