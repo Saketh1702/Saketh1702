@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=saketh)
 
-## 📈 My Github Stat
+## 📈 My Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Saketh1702&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Saketh1702" />
 <br>
